@@ -35,3 +35,7 @@ header{
     padding-top: 60px;
   }
 
+content{
+    max-width: 70%;
+}
+
